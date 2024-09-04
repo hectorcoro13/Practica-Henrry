@@ -1,2 +1,1 @@
-# Practica-Henrry
-Este es un repositorio de prueba
+Este proyecto es una prueba para crear un reposotorio y clonarlo a local
